@@ -1,0 +1,13 @@
+{
+    "settings": {
+        "python.analysis.typeCheckingMode": "strict",
+        "editor.formatOnSaveMode": "file",
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        },
+        "python.linting.pylintEnabled": true,
+        "python.liniting.enabled": true,
+        "vim.smartRelativeLine": true
+    }
+}
